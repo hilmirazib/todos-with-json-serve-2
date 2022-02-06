@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "name": "Belajar VUE JS",
+      "done": true
+    },
+    {
+      "name": "Belajar Golang",
+      "id": 1,
+      "done": true
+    },
+    {
+      "name": "Belajar Lagi",
+      "done": true,
+      "id": 2
+    },
+    {
+      "name": "Mungkin",
+      "done": true,
+      "id": 3
+    }
+  ]
+}
